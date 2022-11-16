@@ -86,8 +86,4 @@ print('hola mundo')
 <!-- Emojis https://gist.github.com/rxaviers/7360908-->
 
 :sleeping:
-=======
-* [] Tarea 2
-* [] Tarea 3
-* [x] Tarea 4
->>>>>>> ff666c65a1d7a0361a71eec3a70ef2f59a2573aa
+
