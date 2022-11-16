@@ -78,7 +78,6 @@ print('hola mundo')
 <!-- GITHUB Markdown -->
 
 * [x] Tarea 1
-<<<<<<< HEAD
 * [ ] Tarea 2
 * [ ] Tarea 3
 * [x] Tarea 4
